@@ -1,83 +1,77 @@
 # Hi, I'm Montasir 👋
 
-## 💻 C# Developer • 🎮 Unity Game Developer • 🤖 ML Enthusiast
+<p align="center">
+  💻 C# Developer • 🎮 Unity Game Developer • 🤖 ML Enthusiast
+</p>
+
+<p align="center">
+  <strong>Building real-world applications and indie games with passion</strong>
+</p>
 
 ---
 
 ## 🌌 About Me
 
-- 🔭 Building real-world applications & Unity games  
-- 🎮 Passionate about 2D Game Development  
-- 🤖 Exploring Machine Learning & AI systems  
-- 📚 Focused on OOP, Clean Code & Problem Solving  
-- ⚡ Goal: Become a professional developer & indie game creator  
+- 🔭 Currently building **real-world & game projects**
+- 🎮 Passionate about **Unity & 2D Game Development**
+- 🤖 Exploring **Machine Learning** and recommendation systems
+- 📚 Focused on **OOP, Clean Code, and Problem Solving**
+- ⚡ Goal: Become a **professional developer & successful indie game creator**
 
 ---
 
-## 🚀 Tech Stack
+## 🌟 Featured Projects
 
-- C# / .NET  
-- Unity Game Engine  
-- Python (ML basics & exploration)  
-- Git & GitHub  
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
+Here are some of my favorite works:
+
+**OmniNest** — Find Your Nest Anywhere  
+**DeshExplorer** — Tourist Place Recommendation System  
+**Tower Clash** — My first 2D Game  
+**NextWatch** — ML-based Recommendation System  
+**LoveBirds** — 2D Game  
+
+👉 Explore all projects: [github.com/montasirshihan?tab=repositories](https://github.com/montasirshihan?tab=repositories)
 
 ---
 
-## 📊 Skills Overview (Graph)
+## 📊 GitHub Analytics
 
-```mermaid
-pie title Skill Distribution (Approx)
-    "C# / .NET" : 30
-    "Unity Game Dev" : 25
-    "Machine Learning" : 15
-    "Problem Solving (DSA)" : 15
-    "Git & Tools" : 10
-    "Other Learning" : 5
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=montasirshihan&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montasirshihan&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+</p>
 
-🧠 Development Focus Map
-graph TD
-A[Developer Journey] --> B[C# & .NET Mastery]
-A --> C[Unity Game Development]
-A --> D[Machine Learning Basics]
-A --> E[Problem Solving]
-B --> B1[OOP Concepts]
-B --> B2[Backend Logic]
-C --> C1[2D Games]
-C --> C2[Game Mechanics]
-D --> D1[Recommendation Systems]
-D --> D2[Data Models]
-E --> E1[Algorithms]
-E --> E2[Competitive Programming]
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=montasirshihan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-🌟 Featured Projects
-🔗 OmniNest – Find Your Nest Anywhere
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=montasirshihan&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
-https://github.com/montasirshihan/OmniNest-Find-Your-Nest-Anywhere
+---
 
-🔗 DeshExplorer – Tourist Place Recommendation System
+## 🧠 Skills & Technologies
 
-https://github.com/montasirshihan/DeshExplorer-Tourist-Place-Recommendation-System
+- **Languages**: C#, Python, C++
+- **Game Development**: Unity, 2D Game Design
+- **Machine Learning**: Recommendation Systems, Data Processing
+- **Core Concepts**: Object-Oriented Programming (OOP), Clean Architecture, Problem Solving
+- **Tools**: Git, GitHub, Visual Studio
 
-🔗 Tower Clash – My First 2D Game
+---
 
-https://github.com/montasirshihan/Tower-Clash-My-1st-2D-Game-
+## 📫 Let's Connect
 
-🔗 NextWatch – ML Recommendation System
+- **Email**: montasirshihan@gmail.com
 
-https://github.com/montasirshihan/NextWatch-1st-ML-Project-Recommendation-System-
+---
 
-🔗 LoveBirds 2D Game
+<p align="center">
+  🌙 <strong>“Create. Learn. Repeat.”</strong>
+</p>
 
-https://github.com/montasirshihan/LoveBirds_2D_Game
-
-
-📈 GitHub Activity (Text Summary)
-Focused on consistent project development
-Strong interest in game mechanics & ML systems
-Active in building portfolio-level projects
-Improving coding structure & architecture daily
-🧭 Learning Philosophy
-
-"Create. Learn. Improve. Repeat."
+<p align="center">
+  Made with ❤️ in Chattogram, Bangladesh
+</p>
